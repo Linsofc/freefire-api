@@ -1,5 +1,5 @@
 {
-  "name": "@spinzaf/freefire-api",
+  "name": "@arbakti_store/freefire-api",
   "version": "1.0.5",
   "description": "A powerful Node.js library to interact with Garena Free Fire API using Protobuf. Login, Search Players, and get Profile Stats.",
   "main": "index.js",
@@ -28,16 +28,16 @@
     "nodejs",
     "javascript"
   ],
-  "author": "spinzaf",
+  "author": "Arbakti",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spinzaf/freefire-api.git"
+    "url": "git+https://github.com/ARBAKTI/freefire-api.git"
   },
   "bugs": {
-    "url": "https://github.com/spinzaf/freefire-api/issues"
+    "url": "https://github.com/ARBAKTI/freefire-api/issues"
   },
-  "homepage": "https://github.com/spinzaf/freefire-api#readme",
+  "homepage": "https://github.com/ARBAKTI/freefire-api#readme",
   "dependencies": {
     "axios": "^1.6.0",
     "protobufjs": "^7.2.0"
