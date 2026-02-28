@@ -20,7 +20,7 @@ This project is **unofficial** and is not affiliated with Garena.
 
 ## Installation
 ```bash
-npm install @spinzaf/freefire-api
+npm install @arbakti_store/freefire-api
 ```
 
 ## Requirements
@@ -28,7 +28,7 @@ npm install @spinzaf/freefire-api
 
 ## Quick Start
 ```js
-const FreeFireAPI = require('@spinzaf/freefire-api');
+const FreeFireAPI = require('@arbakti_store/freefire-api');
 
 async function main() {
   const api = new FreeFireAPI();
@@ -277,21 +277,14 @@ All tests passed successfully!
 - `data/items.json`: item data source
 
 ## Metadata
-- npm: `@spinzaf/freefire-api`
-- repository: `https://github.com/spinzaf/freefire-api`
+- npm: `@arbakti_store/freefire-api`
+- repository: `https://github.com/ARBAKTI/freefire-api`
 - license: GPL-3.0
 
 ## Acknowledgements
 We perform this work standing on the shoulders of giants. Special thanks to the open-source community for their Reverse Engineering efforts.
 
 - `0xMe/FreeFire-Api`: Prior research established a Python-based workflow. This project converts that logic into an easy-to-use JavaScript implementation, with equivalent functionality.
-
-## Support
-If you find this project helpful and would like to support the development, you can treat me to a coffee! ☕
-
-- Donate via Saweria: https://saweria.co/spinzaf
-
-A huge thank you to everyone who has supported! Your support keeps this project alive. ❤️
 
 ## License
 GNU General Public License v3.0
