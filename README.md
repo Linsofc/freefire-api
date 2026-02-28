@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=180&section=header&text=Free%20Fire%20API&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" alt="Free Fire API Hero" />
-  <img src="https://dl.dir.freefiremobile.com/common/test/official/FF_SHORT_LOGO.PNG.png" width="120" alt="Free Fire Logo" />
+  <img src="https://raw.githubusercontent.com/ARBAKTI/freefire-api/refs/heads/main/public/logo.png" width="120" alt="Free Fire Logo" />
 </div>
 
 # Free Fire API
